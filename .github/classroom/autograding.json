@@ -1,0 +1,14 @@
+{
+  "tests": [
+   { 
+      "name": "",
+      "setup": "javac !!.java",
+      "run": "java !!",
+      "input": "",
+      "output": "",
+      "comparison": "included|regex",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
