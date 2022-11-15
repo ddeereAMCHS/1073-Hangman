@@ -28,22 +28,31 @@ h\
 a\
 ***Example Output:***\
 --------, 9 incorrect guesses left\
+Enter a letter: \
 r is not in the word\
 --------, 8 incorrect guesses left\
+Enter a letter: \
 s is not in the word\
 --------, 7 incorrect guesses left\
+Enter a letter: \
 t is in the word\
 -------t, 7 incorrect guesses left\
+Enter a letter: \
 l is in the word\
 -l-----t, 7 incorrect guesses left\
+Enter a letter: \
 n is in the word\
 -l----nt, 7 incorrect guesses left\
+Enter a letter: \
 e is in the word\
 ele---nt, 7 incorrect guesses left\
+Enter a letter: \
 p is in the word\
 elep--nt, 7 incorrect guesses left\
+Enter a letter: \
 h is in the word\
 eleph-nt, 7 incorrect guesses left\
+Enter a letter: \
 a is in the word\
 Congratulations! You guessed elephant in 9 guesses!
 
@@ -63,27 +72,39 @@ f\
 h\
 ***Example Output:***\
 ------, 9 incorrect guesses left\
+Enter a letter: \
 r is not in the word\
 ------, 8 incorrect guesses left\
+Enter a letter: \
 s is not in the word\
 ------, 7 incorrect guesses left\
+Enter a letter: \
 t is in the word\
 -----t, 7 incorrect guesses left\
+Enter a letter: \
 l is not in the word\
 -----t, 6 incorrect guesses left\
+Enter a letter: \
 n is not in the word\
 -----t, 5 incorrect guesses left\
+Enter a letter: \
 e is not in the word\
 -----t, 4 incorrect guesses left\
+Enter a letter: \
 a is in the word\
 ----at, 4 incorrect guesses left\
+Enter a letter: \
 i is not in the word\
 ----at, 3 incorrect guesses left\
+Enter a letter: \
 o is in the word\
 -o--at, 3 incorrect guesses left\
+Enter a letter: \
 d is not in the word\
 -o--at, 2 incorrect guesses left\
+Enter a letter: \
 f is not in the word\
 -o--at, 1 incorrect guess left\
+Enter a letter: \
 h is not in the word\
 You lost! The word was bobcat
