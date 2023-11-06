@@ -1,6 +1,6 @@
 # Hangman
 
-## Due: Mon 11/14 at 11:59 PM
+## Due: Tue 11/14 at 11:59 PM
 
 - Create a program called `Hangman.java`
 - Prompt the user for a word
